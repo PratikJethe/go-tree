@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+ <directroy name="test_data">
+   <directroy name="dir1">
+     <directroy name="dir3">
+     </directroy>
+     <directroy name="dir4">
+     </directroy>
+   </directroy>
+   <directroy name="dir2">
+   </directroy>
+ </directroy>
+ <report>
+    <directories>4</directories>
+ </report>
+</tree>
